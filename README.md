@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Franz Angelo</h1>
 <h3 align="center">A passionate future software engineer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranziss&label=Profile%20views&color=0e75b6&style=flat" alt="pranziss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranziss" alt="pranziss" /></a> </p>
-
 - 🌱 I’m currently learning **ai and machine learning**
 
 - 📫 How to reach me **fatongco1@gmail.com**
