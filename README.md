@@ -5,16 +5,10 @@
 
 - Fun fact: **I think I am a loser but one can dream**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">PoL:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/franzangelotongco" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franz angelo tongco" height="30" width="40" />
-  </a>
   <a href="https://stackoverflow.com/users/31057959" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31057959" height="30" width="40" />
-  </a>
-  <a href="https://facebook.com/franz.angelo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="franz angelo" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/pranzisss" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranzisss" height="30" width="40" />
