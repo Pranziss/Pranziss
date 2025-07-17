@@ -1,4 +1,7 @@
-<h1 align="left">Hi there 👋</h1>
+<h1 align="left">Hi there <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture></h1>
 <h3 align="left">I'm Franz Angelo, a aspiring developer from the Philippines</h3>
 
 - I’m currently learning **AI and Machine Learning**
