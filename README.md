@@ -1,5 +1,5 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="left">I'm Franz Angelo, a passionate developer from the Philippines</h3>
+<h3 align="left">I'm Franz Angelo, a aspiring future developer from the Philippines</h3>
 
 - I’m currently learning **AI and Machine Learning**
 
