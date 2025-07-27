@@ -11,7 +11,7 @@ Some random facts
 
 - I'm currently a 2nd-year student in the Philippines.
 
-- How to reach me: franztongcoriginal@gmail.com
+- How to reach me: fatongco1@gmail.com
 
 - Fun fact: Coding is fun...
 
