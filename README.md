@@ -7,7 +7,7 @@
 
 Some random facts
 
-- I’m interested and learning AI and machine learning.
+- I’m very interested in AI and machine learning.
 
 - I'm currently a 2nd-year student in the Philippines.
 
