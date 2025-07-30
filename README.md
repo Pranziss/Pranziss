@@ -1,23 +1,22 @@
-<h1 align="left">Hi there<picture>
+<h1 align="left">Hi there <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture></h1>
 
 <h3 align="left">I'm Franz Angelo, a developer from the Philippines</h3>
 
-Some random facts
+---
 
-- I’m very interested in AI and machine learning.
+### 👀Some Fun Facts  
 
-- I'm currently a 2nd-year student in the Philippines.
-
-- How to reach me: fatongco1@gmail.com
-
-- Fun fact: Coding is fun...
+- I’m very interested in **AI and machine learning**.  
+- I'm currently a **2nd-year student** in the Philippine.  
+- I recently built a **chatbot** that can assist students and coders with their studies, debugging, etc, [check it out here](https://github.com/Pranziss/Coding-Companion)
+- **coding is fun...** 👽
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,4 +31,6 @@ Some random facts
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)
+---
+
+![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)  
