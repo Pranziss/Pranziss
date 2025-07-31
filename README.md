@@ -5,7 +5,7 @@
 
 <h3 align="left">I'm Franz Angelo, a developer from the Philippines</h3>
 
-### 👀Some Fun Facts  
+### 👀 Some Fun Facts  
 
 - I’m very interested in **AI and machine learning**.  
 - I'm currently a **2nd-year student** in Bohol Island STate University.
@@ -14,7 +14,7 @@
 
 ---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">💻 Tech Stack</h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -28,6 +28,17 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMTYgMTUiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiMwMDAiLz48L3N2Zz4=)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<h3 align="left">
+  🌐 Web Portfolio
+</h3>
+
+<p align="left">
+  <a href="https://pranziss.github.io/Portfolio-znarf/" target="_blank">
+    <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 
 ---
 
