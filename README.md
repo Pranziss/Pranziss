@@ -5,13 +5,11 @@
 
 <h3 align="left">I'm Franz Angelo, a developer from the Philippines</h3>
 
----
-
 ### 👀Some Fun Facts  
 
 - I’m very interested in **AI and machine learning**.  
-- I'm currently a **2nd-year student** in the Philippine.  
-- I recently built a **chatbot** that can assist students and coders with their studies, debugging, etc, [check it out here](https://github.com/Pranziss/Coding-Companion)
+- I'm currently a **2nd-year student** in Bohol Island STate University.
+- I recently built a **chatbot** that can assist students and coders with their studies, debugging, etc, [check it out here](https://github.com/Pranziss/WikiBot)
 - **coding is fun...** 👽
 
 ---
