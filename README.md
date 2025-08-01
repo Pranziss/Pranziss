@@ -29,16 +29,24 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<h3 align="left">
-  🌐 Web Portfolio
-</h3>
+<div style="overflow: hidden;">
 
-<p align="left">
-  <a href="https://pranziss.github.io/Portfolio-znarf/" target="_blank">
-    <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  <!-- Left side -->
+  <div align="left" style="float: left;">
+    <h3>📞 Connect with Me & 🌐 Web Portfolio</h3>
+    <a href="https://tiktok.com/@spamaccniyole" target="_blank">
+      <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    </a>
+    <a href="https://instagram.com/parisfaranz" target="_blank">
+      <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-</p>
-
+     <a href="https://pranziss.github.io/Portfolio-znarf/" target="_blank">
+      <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+  </div>
 
 ---
 
