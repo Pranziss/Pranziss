@@ -33,7 +33,7 @@
 
   <!-- Left side -->
   <div align="left" style="float: left;">
-    <h3>📞 Connect with Me & 🌐 Web Portfolio</h3>
+    <h3>📞 Connect with Me & Web Portfolio 🌐</h3>
     <a href="https://tiktok.com/@spamaccniyole" target="_blank">
       <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
