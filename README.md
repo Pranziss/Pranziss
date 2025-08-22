@@ -9,7 +9,7 @@
 
 - I’m very interested in **AI and machine learning** and actively learning more.  
 - I'm currently a **2nd-year student** in Bohol Island State University.
-- I recently built a light **chatbot** that can entertain you - [check it out here](https://github.com/Pranziss/Simple--Lightweight-Chatbot), and I'm currently working on a scholarbot that can assist students with academic tasks and more - **COMING SOON**, and last but not the least, I'm building my own neural network from scratch.
+- I recently built a light **chatbot** that can entertain you - [check it out here](https://github.com/Pranziss/Simple--Lightweight-Chatbot), and I'm also currently **working** on a scholarbot that can assist students with academic tasks and more - **COMING SOON**, and last but not the least, I'm building my own neural network from scratch.
 - **coding is fun...** 👽
 - **I cant even finish one project therefore I believe I'm indeed a loser...** 🥹
 
