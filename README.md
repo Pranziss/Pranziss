@@ -5,7 +5,7 @@
 
 <h3 align="left">I'm Franz Angelo, a developer from the Philippines</h3>
 
-### 👀 Some Fun Facts  
+### Fun Facts  
 
 - I’m very interested in **AI and machine learning** and actively learning more.  
 - I'm currently a **2nd-year student** in Bohol Island State University.
