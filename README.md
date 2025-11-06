@@ -23,12 +23,12 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMTYgMTUiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiMwMDAiLz48L3N2Zz4=)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 <div style="overflow: hidden;">
 
@@ -42,13 +42,13 @@
       <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-     <a href="https://pranziss.github.io/Portfolio-znarf/" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+    </a>
+    <a href="https://pranziss.github.io/Portfolio-znarf/" target="_blank">
       <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </div>
 
 ---
 
-![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)  
+![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)
