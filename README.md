@@ -3,32 +3,41 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture></h1>
 
-<h3 align="left">I'm Franz Angelo, a developer from the Philippines</h3>
+<h3 align="left">I'm Franz Angelo, a BSIT student & aspiring software developer from the Philippines</h3>
 
 ### Fun Facts  
 
-- I’m very interested in AI and Machine Learning and I’m actively learning more about it.
-- I’m currently a 2nd-year student at Bohol Island State University.
-- I recently built a light **chatbot** that can entertain you - [check it out here](https://github.com/Pranziss/Simple--Lightweight-Chatbot), and I'm also currently **working** on a scholarbot that can assist students with academic tasks and more - **COMING SOON**, and last but not the least, I'm building my own neural network from scratch.
-- **coding is fun...** 👽
-- **I cant even finish one project dawgg... therefore I believe I'm indeed a loser...** 🥹
+- I’m very interested in **AI-assisted systems and Machine Learning**, and I’m actively learning more about how they work under the hood.
+- I’m currently a **2nd-year BSIT student** at **Bohol Island State University**.
+- I’ve built a lightweight **chatbot** using Python and web technologies — [check it out here](https://github.com/Pranziss/Simple--Lightweight-Chatbot).
+- I’m currently **working on a scholarbot** designed to assist students with academic tasks (**in progress**).
+- I enjoy building **practical projects** and continuously improving my **programming fundamentals, databases, and system design**.
+- **Coding is challenging, but that’s what makes it fun** 👽
 
 ---
 
 <h3 align="left">💻 Tech Stack</h3>
 
+<h4 align="left">Core (comfortable using)</h4>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<h4 align="left">Web & Application Development</h4>
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJub25lIiBoZWlnaHQ9IjE1IiB2aWV3Qm94PSIwIDAgMTYgMTUiIHdpZHRoPSIxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iNy41IiByPSI3LjUiIGZpbGw9IiMwMDAiLz48L3N2Zz4=)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<h4 align="left">Currently Learning / Exploring</h4>
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <div style="overflow: hidden;">
 
