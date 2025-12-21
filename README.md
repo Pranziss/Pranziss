@@ -12,7 +12,7 @@
 - I’ve built a lightweight **chatbot** using Python and web technologies — [check it out here](https://github.com/Pranziss/Simple--Lightweight-Chatbot).
 - I’m currently **working on a scholarbot** designed to assist students with academic tasks (**in progress**).
 - I enjoy building **practical projects** and continuously improving my **programming fundamentals, databases, and system design**.
-- **Coding is challenging, but that’s what makes it fun** 👽
+- **Coding is challenging* 👽
 
 ---
 
@@ -26,15 +26,12 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h4 align="left">Web & Application Development</h4>
+<h4 align="left">Currently Learning / Exploring</h4>
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-<h4 align="left">Currently Learning / Exploring</h4>
-
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -43,7 +40,7 @@
 
   <!-- Left side -->
   <div align="left" style="float: left;">
-    <h3>📞 Connect with Me & Web Portfolio 🌐</h3>
+    <h4>📞 Connect with Me & Web Portfolio 🌐</h4>
     <a href="https://tiktok.com/@fraangco" target="_blank">
       <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
