@@ -12,7 +12,7 @@
 - I’ve built a lightweight **chatbot** using Python and web technologies — [check it out here](https://github.com/Pranziss/Simple--Lightweight-Chatbot).
 - I’m currently **working on a scholarbot** designed to assist students with academic tasks (**in progress**).
 - I enjoy building **practical projects** and continuously improving my **programming fundamentals, databases, and system design**.
-- **Coding is challenging* 👽
+- **Coding is challenging**👽
 
 ---
 
