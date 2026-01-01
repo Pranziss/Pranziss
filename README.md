@@ -55,13 +55,7 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 
 ---
 
-### 📫 Contact & Portfolio
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatongco1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://pranziss.github.io/Portfolio-znarf/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/franzz.tongco.5)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parisfaranz)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@m1_wee)
+<div style="overflow: hidden;"> <!-- Left side --> <div align="left" style="float: left;"> <h4>📞 Connect with Me & Web Portfolio 🌐</h4> <a href="https://tiktok.com/@fraangco" target="_blank"> <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://instagram.com/parisfaranz" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /> </a> <a href="https://pranziss.github.io/Portfolio-znarf/" target="_blank"> <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
 
 
 
