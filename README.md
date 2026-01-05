@@ -12,7 +12,7 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 
 ---
 
-### 👋 About Me
+### About Me
 
 - I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system logic.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
