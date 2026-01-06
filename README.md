@@ -1,5 +1,5 @@
 <h1 align="left">
-Hi there
+Hi, I'm Franz Angelo
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
@@ -7,7 +7,7 @@ Hi there
 </h1>
 
 <h3 align="left">
-I'm Franz Angelo — a student developer from the Philippines focused on backend development and applied AI systems.
+A passionate student developer from the Philippines focused on backend development and applied AI systems.
 </h3>
 
 ---
@@ -16,7 +16,7 @@ I'm Franz Angelo — a student developer from the Philippines focused on backend
 
 - I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system-level logic.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
-- Built a **local-first AI chatbot** using **Python, Flask, and web technologies**[View Project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
+- Built a **local-first AI chatbot** using **Python, Flask, and web technologies**, [view project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
 - Currently working on **ScholarBot**, a student-focused assistant for academic tasks (**in progress**).
 - Actively improving my understanding of **databases, backend systems, and software fundamentals**.
 - Coding is 👽
