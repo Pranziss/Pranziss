@@ -23,7 +23,7 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 
 ---
 
-<h3 align="left">💻 Tech Stack</h3>
+<h3 align="left">Tech Stack</h3>
 
 <h4 align="left">Core (comfortable using)</h4>
 
@@ -49,7 +49,7 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 
 ---
 
-### 🎯 Currently Looking For
+### Currently Looking For
 
 - **OJT / Internship opportunities** related to:
   - Backend Development
