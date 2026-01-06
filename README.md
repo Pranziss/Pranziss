@@ -1,5 +1,5 @@
 <h1 align="left">
-Hi there 
+Hi there
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
@@ -7,25 +7,25 @@ Hi there
 </h1>
 
 <h3 align="left">
-I'm Franz Angelo — a BSIT student from the Philippines focused on backend development and applied AI systems.
+I'm Franz Angelo — a student developer from the Philippines focused on backend development and applied AI systems.
 </h3>
 
 ---
 
-### About Me
+## About Me
 
-- I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system logic.
+- I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system-level logic.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
-- Built a **locally-hosted chatbot** using **Python, Flask, and web technologies** — [View project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
-- Currently working on a **ScholarBot** designed to assist students with academic tasks (**in progress**).
-- I like improving my understanding of **databases, system design, and software fundamentals**.
+- Built a **local-first AI chatbot** using **Python, Flask, and web technologies**[View Project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
+- Currently working on **ScholarBot**, a student-focused assistant for academic tasks (**in progress**).
+- Actively improving my understanding of **databases, backend systems, and software fundamentals**.
 - Coding is 👽
 
 ---
 
-<h3 align="left">Tech Stack</h3>
+## Tech Stack
 
-<h4 align="left">Core (comfortable using)</h4>
+### Core (comfortable using)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -34,7 +34,7 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h4 align="left">Currently Learning / Exploring</h4>
+### Learning / Exploring
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +49,7 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 
 ---
 
-### Currently Looking For
+## Currently Looking For
 
 - **OJT / Internship opportunities** related to:
   - Backend Development
@@ -60,9 +60,6 @@ I'm Franz Angelo — a BSIT student from the Philippines focused on backend deve
 ---
 
 <div style="overflow: hidden;"> <!-- Left side --> <div align="left" style="float: left;"> <h4>📞 Connect with Me & Web Portfolio 🌐</h4> <a href="https://tiktok.com/@fraangco" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://instagram.com/parisfaranz" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /> </a> <a href="https://pranzissfranco.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
-
-
-
 
 ---
 
