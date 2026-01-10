@@ -23,7 +23,15 @@ A passionate student developer from the Philippines focused on backend systems a
 ---
 
 ## Live Demos
-Check out my portfolio: [pranzissfranco.vercel.app](https://pranzissfranco.vercel.app/)
+
+<a href="https://pranzissfranco.vercel.app/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/Pranziss/newportfolio/main/public/vite.png"
+    alt="Portfolio Demo"
+    height="40"
+  />
+</a>
+
 
 ---
 
@@ -47,10 +55,6 @@ Check out my portfolio: [pranzissfranco.vercel.app](https://pranzissfranco.verce
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
----
-
-<div style="overflow: hidden;"> <!-- Left side --> <div align="left" style="float: left;"> <h4>📞 Connect with Me & Web Portfolio 🌐</h4> <a href="https://tiktok.com/@fraangco" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://instagram.com/parisfaranz" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.facebook.com/franzz.tongco.5/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /> </a> <a href="https://pranzissfranco.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
 
 ---
 
