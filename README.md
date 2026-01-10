@@ -5,31 +5,30 @@ Hi, I'm Franz Angelo
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 </h1>
-
 <h3 align="left">
-A passionate student developer from the Philippines focused on backend development and applied AI systems.
+A passionate student developer from the Philippines focused on backend systems and AI, creating tools from chatbots to learning platforms that are dynamic and user-friendly.
 </h3>
 
 ---
 
 ## About Me
-
 - I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system-level logic.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
 - Built a **local-first AI chatbot** using **Python, Flask, and web technologies**, [view project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
-- Currently working on **ScholarBot**, a student-focused assistant for academic tasks (**in progress**).
-- Actively improving my understanding of **databases, backend systems, and software fundamentals**.
+- Currently working on **ScholarLite**, a deployable academic assistant web app with Google OAuth authentication, database-backed storage, and clean APIs for future LLM integration (**in progress**).
+- Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management, and **Nova AI Playground**, an experimental AI sandbox.
+- Actively improving my understanding of **databases, backend systems, AI integration, and software fundamentals**.
 - Coding is 👽
 
 ---
+
 ## Live Demos
-soon
+Check out my portfolio: [pranzissfranco.vercel.app](https://pranzissfranco.vercel.app/)
 
 ---
+
 ## Tech Stack
-
 ### Core / Main
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -40,7 +39,6 @@ soon
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
 ### Learning / Exploring
-
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -52,7 +50,7 @@ soon
 
 ---
 
-<div style="overflow: hidden;"> <!-- Left side --> <div align="left" style="float: left;"> <h4>📞 Connect with Me & Web Portfolio 🌐</h4> <a href="https://tiktok.com/@fraangco" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://instagram.com/parisfaranz" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /> </a> <a href="https://pranzissfranco.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
+<div style="overflow: hidden;"> <!-- Left side --> <div align="left" style="float: left;"> <h4>📞 Connect with Me & Web Portfolio 🌐</h4> <a href="https://tiktok.com/@fraangco" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/TIKTOK-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/> </a> <a href="https://instagram.com/parisfaranz" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.facebook.com/franzz.tongco.5/" target="_blank"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=fatongco1@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /> </a> <a href="https://pranzissfranco.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/▲%20MY%20PORTFOLIO-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/> </a> </div>
 
 ---
 
