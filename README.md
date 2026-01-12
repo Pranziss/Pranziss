@@ -16,7 +16,7 @@ A passionate student developer from the Philippines focused on backend systems a
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
 - Built a **local-first AI chatbot** using **Python, Flask, and web technologies**, [view project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
 - Currently working on **ScholarLite**, a deployable academic assistant web app with Google OAuth authentication, database-backed storage, and clean APIs for future LLM integration (**in progress**).
-- Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management, and **Nova AI Playground**, an experimental AI sandbox.
+- Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management, and **NovaDC-bot**, an experimental DC AI bot.
 - Actively improving my understanding of **databases, backend systems, AI integration, and software fundamentals**.
 - Coding is 👽
 
