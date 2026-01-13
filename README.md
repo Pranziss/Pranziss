@@ -5,6 +5,7 @@ Hi, I'm Franz Angelo
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 </h1>
+
 <h3 align="left">
 A passionate student developer from the Philippines focused on backend systems and AI, creating tools from chatbots to learning platforms that are dynamic and user-friendly.
 </h3>
@@ -14,16 +15,26 @@ A passionate student developer from the Philippines focused on backend systems a
 ## About Me
 - I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system-level logic.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
-- Built a **local-first AI chatbot** using **Python, Flask, and web technologies**, [view project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
+- Built a **local-first AI chatbot** using **Python, Flask, and web technologies**, [view project](https://github.com/Pranziss/Simple--Lightweight-Chatbot).
 - Currently working on **ScholarLite**, a deployable academic assistant web app with Google OAuth authentication, database-backed storage, and clean APIs for future LLM integration (**in progress**).
-- Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management, and **NovaDC-bot**, an experimental DC AI bot.
+- Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management, and **NovaDC-bot**, an experimental AI Discord bot.
 - Actively improving my understanding of **databases, backend systems, AI integration, and software fundamentals**.
 - Coding is 👽
 
 ---
 
-## Live Demos
- none as of now 
+## Interactive Demos (On-Demand)
+
+### NovaDC-bot — Local AI Discord Bot
+A closed-source experimental Discord AI bot powered by locally hosted language models.
+
+- Built from scratch with local inference, conversational memory, and backend logic
+- Designed to run locally for **privacy, cost efficiency, and full system control**
+- **Codebase is private**
+- **Product demo available via a private Discord server**
+
+🔗 Demo Server: https://discord.gg/zDpB7G3v  
+🟢 *Bot is brought online on request (not 24/7)*
 
 ---
 
