@@ -33,7 +33,7 @@ A closed-source experimental Discord AI bot powered by locally hosted language m
 - **Codebase is private**
 - **Product demo available via a private Discord server**
 
-🔗 Demo Server: https://discord.gg/zDpB7G3v  
+🔗 Demo Server: https://discord.gg/KmCwJbpehc  
 🟢 *Bot is brought online on request (not 24/7)*
 
 ---
