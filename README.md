@@ -30,9 +30,11 @@ A closed-source experimental Discord AI bot powered by locally hosted language m
 - Built from scratch with local inference, conversational memory, and backend logic
 - Designed to run locally for **privacy, cost efficiency, and full system control**
 - **Codebase is private**
+- Integrated with **chess, reminders, and utilities** (full backend logic)
 - **Product demo available via a private Discord server**
 
 🔗 Demo Server: https://discord.gg/KmCwJbpehc  
+♟️ Play with her in Lichess: NovaDC
 🟢 *Bot is brought online on request (not 24/7)*
 
 ---
