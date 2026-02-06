@@ -18,7 +18,6 @@ A passionate student developer from the Philippines focused on backend systems a
 - Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management. [view project](https://github.com/Pranziss/Nova-Learning-GUI).
 - Currently working on **ScholarLite**, a deployable academic assistant web app, database-backed storage, and clean APIs for future LLM integration and **NovaDC-bot / AvonDC-bot**, an experimental AI Discord bot. (**in progress**).
 - Actively improving my understanding of **databases, backend systems, AI integration, and software fundamentals**.
-- Coding is 👽
 
 ---
 
