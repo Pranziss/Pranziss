@@ -7,7 +7,7 @@ Hi, I'm Franz Angelo
 </h1>
 
 <h3 align="left">
-A passionate student developer from the Philippines focused on backend systems and AI, creating tools from chatbots to learning platforms that are dynamic and user-friendly.
+A student developer from the Philippines focused on backend systems and AI, creating tools from chatbots to learning platforms that are dynamic and user-friendly.
 </h3>
 
 ---
@@ -21,9 +21,9 @@ A passionate student developer from the Philippines focused on backend systems a
 
 ---
 
-## Interactive Demos (On-Demand)
+## Demos
 
-### NovaDC-bot / AvonDC-bot — Local AI Discord Bot
+### NovaDC-bot / AvonDC-bot — Local AI Discord Bot (On-Demand)
 A closed-source experimental Discord AI bot powered by locally hosted language models.
 
 - Built from scratch with local inference, conversational memory, and backend logic
@@ -33,10 +33,9 @@ A closed-source experimental Discord AI bot powered by locally hosted language m
 - **Product demo available via a private Discord server**
 
 🔗 Demo Server: https://discord.gg/KmCwJbpehc  
-♟️ Play with her in Lichess: NovaDC
-🟢 *Bot is brought online on request (not 24/7)*
+♟️ Play with her in Lichess: NovaDC "**🤖NovaChess is brought online on request (not 24/7)**"
 
----
+--- 
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
