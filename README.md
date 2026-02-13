@@ -33,7 +33,7 @@ A closed-source experimental Discord AI bot powered by locally hosted language m
 - **Product demo available via a private Discord server**
 
 🔗 Demo Server: https://discord.gg/KmCwJbpehc  
-♟️ Play with her in Lichess: NovaDC "**🤖NovaChess is brought online on request (not 24/7)**"
+♟️ Play with her in Lichess: NovaDC "**🤖 Nova is brought online on request (not 24/7)**"
 
 --- 
 
