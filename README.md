@@ -14,8 +14,8 @@ A student developer from the Philippines focused on backend systems and AI, crea
 
 ## About Me
 - I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system-level logic.
-- Built a **local AI chatbot** using **Python, Flask, and web technologies**,[View Project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
-- Built **Nova Learning Center**, a quiz-based learning system focused on **quiz management, user dashboards, and study tools**,[View Project](https://github.com/Pranziss/Nova-Learning-GUI)
+- Built a **local AI chatbot** using **Python, Flask, and web technologies**. [View Project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
+- Built **Nova Learning Center**, a quiz-based learning system focused on **quiz management, user dashboards, and study tools**. [View Project](https://github.com/Pranziss/Nova-Learning-GUI)
 - Built **NovAiLC**, an **AI-assisted quiz learning platform** inspired by Quizlet, designed for creating, sharing, and taking quizzes with integrated study assistance. [Live Demo](https://nov-ai-lc.vercel.app/)
 - Currently working on **NovaDC-bot / AvonDC-bot**, an experimental **AI Discord bot with conversational memory and local inference**
 - Actively improving my understanding of **databases, backend systems, AI integration, and software architecture**
@@ -24,30 +24,13 @@ A student developer from the Philippines focused on backend systems and AI, crea
 
 ## Demos
 
-### NovaDC-bot / AvonDC-bot — Local AI Discord Bot (On-Demand)
-A closed-source experimental Discord AI bot powered by locally hosted language models.
-
-- Built from scratch with local inference, conversational memory, and backend logic
-- Designed to run locally for **privacy, cost efficiency, and full system control**
-- **Codebase is private**
-- Integrated with **chess, reminders, and utilities** (full backend logic)
-- **Product demo available via a private Discord server**
-
-🔗 Demo Server: https://discord.gg/KmCwJbpehc  
+### (On-Demand) NovaDC-bot / AvonDC-bot — Local AI Discord Bot: [Discord Server](https://discord.gg/KmCwJbpehc)  
+🐱 Discord bot that is inspired by neuro-sama
 ♟️ Play with her in Lichess: NovaDC / 🤖 **Nova is brought online on request (not 24/7)**
 
-##
 
-### NovAiLC — AI-Powered Quiz Learning Platform (24/7)
-An experimental AI-assisted quiz learning platform inspired by Quizlet, designed for creating, sharing, and taking quizzes with integrated study assistance.
-
-- Built from scratch as a full-stack MVP with custom frontend and backend architecture
-- Designed for creating quiz sets, playing quizzes, and tracking learning performance
-- Integrated AI study assistant powered by an online LLM
-- Supports public quiz discovery and personal learning dashboards
-- Deployed for 24/7 cloud access from any device
-
-🌐 Web Link: https://nov-ai-lc.vercel.app/
+### (24/7) NovAiLC — AI-Powered Quiz Learning Platform: [View Project](https://nov-ai-lc.vercel.app/)
+📔 Quiz system with ai
 
 --- 
 
