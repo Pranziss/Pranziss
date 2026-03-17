@@ -14,10 +14,11 @@ A student developer from the Philippines focused on backend systems and AI, crea
 
 ## About Me
 - I enjoy building **AI-assisted applications**, especially chatbots with memory, databases, and system-level logic.
-- Built a **local AI chatbot** using **Python, Flask, and web technologies**, [view project](https://github.com/Pranziss/Simple--Lightweight-Chatbot).
-- Also built **Nova Learning Center**, a GUI mini learning system focused on quizzes and user management. [view project](https://github.com/Pranziss/Nova-Learning-GUI).
-- Currently working on **ScholarLite**, a deployable academic assistant web app, database-backed storage, and clean APIs for future LLM integration and **NovaDC-bot / AvonDC-bot**, an experimental AI Discord bot. (**in progress**).
-- Actively improving my understanding of **databases, backend systems, AI integration, and software fundamentals**.
+- Built a **local AI chatbot** using **Python, Flask, and web technologies**,[View Project](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
+- Built **Nova Learning Center**, a quiz-based learning system focused on **quiz management, user dashboards, and study tools**,[View Project](https://github.com/Pranziss/Nova-Learning-GUI)
+- Built **NovAiLC**, an **AI-assisted quiz learning platform** inspired by Quizlet, designed for creating, sharing, and taking quizzes with integrated study assistance. [Live Demo](https://nov-ai-lc.vercel.app/)
+- Currently working on **NovaDC-bot / AvonDC-bot**, an experimental **AI Discord bot with conversational memory and local inference**
+- Actively improving my understanding of **databases, backend systems, AI integration, and software architecture**
 
 ---
 
