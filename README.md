@@ -35,6 +35,19 @@ A closed-source experimental Discord AI bot powered by locally hosted language m
 🔗 Demo Server: https://discord.gg/KmCwJbpehc  
 ♟️ Play with her in Lichess: NovaDC / 🤖 **Nova is brought online on request (not 24/7)**
 
+##
+
+### NovAiLC — AI-Powered Quiz Learning Platform (24/7)
+An experimental AI-assisted quiz learning platform inspired by Quizlet, designed for creating, sharing, and taking quizzes with integrated study assistance.
+
+- Built from scratch as a full-stack MVP with custom frontend and backend architecture
+- Designed for creating quiz sets, playing quizzes, and tracking learning performance
+- Integrated AI study assistant powered by an online LLM
+- Supports public quiz discovery and personal learning dashboards
+- Deployed for 24/7 cloud access from any device
+
+🌐 Web Link: https://nov-ai-lc.vercel.app/
+
 --- 
 
 ## Tech Stack
