@@ -30,7 +30,6 @@ Student Developer focused on AI-powered applications, backend systems, and build
 ### NovaDC-bot / AvonDC-bot — Local AI Discord Bot  
 → [Join Discord](https://discord.gg/KmCwJbpehc)
 
-- AI bot inspired by Neuro-sama  
 - Supports conversational memory and local inference  
 - Integrated with external tools (e.g. ♟️Lichess for gameplay)  
 - **Runs on-demand (not 24/7)**
@@ -42,15 +41,6 @@ Student Developer focused on AI-powered applications, backend systems, and build
 
 - AI-assisted quiz generation and study system  
 - Create, share, and take quizzes with smart assistance  
-
----
-
-## Core Skills
-- AI & LLM Integration (local + API-based)
-- Full Stack Development (React + Flask)
-- REST API Development & Debugging
-- Database Design (PostgreSQL / MySQL)
-- Deployment & Hosting (Vercel + Supabase)
 
 ---
 
@@ -67,7 +57,7 @@ Student Developer focused on AI-powered applications, backend systems, and build
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<sub>Also familiar with: Java, C, Apache, Pytest, Git</sub>
+<sub>Also familiar with: Java, JavaScript, C, Apache, Pytest, Git</sub>
 
 ---
 
