@@ -1,50 +1,65 @@
-<h1 align="left">
-Hi, I'm Franz Angelo
+<!-- 🌸 Banner -->
+<p align="center">
+  <img src="pastel_nova.png" alt="Nova Banner" width="100%" />
+</p>
+
+<h1 align="center">
+Hi, I'm Franz Angelo 
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 </h1>
 
-<h3 align="left">
-Student Developer focused on AI-powered applications, backend systems, and building real-world tools from chatbots to learning platforms.
+<h3 align="center">
+Student Developer • AI Systems • Backend Dev
 </h3>
 
 ---
 
-## About Me
-- Student developer focused on **AI-powered applications and backend systems**
-- Experienced in building **chatbots with conversational memory, AI-assisted platforms, and API-driven systems**
-- Strong interest in **system design, automation, and scalable applications**
-
-### Projects
-- Built a **local AI chatbot with conversational memory and system-level logic** using Python and Flask. [View Repo](https://github.com/Pranziss/Simple--Lightweight-Chatbot)
-- Built **Nova Learning Center**, a quiz-based system with **user dashboards, quiz management, and structured study tools**. [View Repo](https://github.com/Pranziss/Nova-Learning-GUI)
-- Built **NovaLC**, an **AI-powered quiz platform** with **dynamic quiz generation and study assistance**, deployed 24/7  
-- Currently building **NovaDC-bot / AvonDC-bot**, an **AI Discord bot with conversational memory and local inference**
+## 🚀 About Me
+- Building **AI-powered applications and backend systems**
+- Experience with **chatbots (memory-based), APIs, and automation**
+- Interested in **system design, scalability, and real-world tools**
 
 ---
 
-## Demos
+## 🧠 Projects
 
-### NovaDC-bot / AvonDC-bot — Local AI Discord Bot  
-→ [Join Discord](https://discord.gg/KmCwJbpehc)
+### 🔹 Core Builds
+- 🧠 **AI Chatbot** — local memory + system logic (Python + Flask)  
+  → https://github.com/Pranziss/Simple--Lightweight-Chatbot  
 
-- Supports conversational memory and local inference  
-- Integrated with external tools (e.g. ♟️Lichess for gameplay)  
-- **Runs on-demand (not 24/7)**
+- 🎓 **Nova Learning Center** — quiz system with dashboards & management  
+  → https://github.com/Pranziss/Nova-Learning-GUI  
 
----
+- ⚡ **NovaLC** — AI-powered quiz platform (dynamic generation)  
 
-### NovaLC — AI-Powered Quiz Learning Platform  
-→ [Visit Web App](https://novalc.vercel.app/)
-
-- AI-assisted quiz generation and study system  
-- Create, share, and take quizzes with smart assistance  
+- 🤖 **NovaDC / AvonDC Bot** — Discord AI bot with memory + local inference  
 
 ---
 
-## Tech Stack
+## 🎮 Demos
+
+### 🤖 NovaDC / AvonDC Bot
+→ https://discord.gg/KmCwJbpehc  
+
+- Conversational memory  
+- Local inference  
+- External integrations (e.g. Lichess)  
+- Runs on-demand  
+
+---
+
+### 📚 NovaLC Platform
+→ https://novalc.vercel.app/  
+
+- Smart study system  
+- Share & take quizzes  
+
+---
+
+## ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -60,5 +75,7 @@ Student Developer focused on AI-powered applications, backend systems, and build
 <sub>Also familiar with: Java, JavaScript, C, Apache, Pytest, Git</sub>
 
 ---
+
+## 🐍 Activity
 
 ![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)
