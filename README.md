@@ -1,6 +1,6 @@
 <!-- 🌸 Banner -->
 <p align="center">
-  <img src="pastel_nova.png" alt="Nova Banner" width="100%" />
+  <img src="nova_bg.png" alt="Nova Banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -17,41 +17,39 @@ Student Developer • AI Systems • Backend Dev
 
 ---
 
-## 🚀 About Me
+## About Me
 - Building **AI-powered applications and backend systems**
 - Experience with **chatbots (memory-based), APIs, and automation**
 - Interested in **system design, scalability, and real-world tools**
 
 ---
 
-## 🧠 Projects
-
-### 🔹 Core Builds
-- 🧠 **AI Chatbot** — local memory + system logic (Python + Flask)  
+## Projects
+- **AI Chatbot** — local memory + system logic (Python + Flask)  
   → https://github.com/Pranziss/Simple--Lightweight-Chatbot  
 
-- 🎓 **Nova Learning Center** — quiz system with dashboards & management  
+- **Nova Learning Center** — quiz system with dashboards & management  
   → https://github.com/Pranziss/Nova-Learning-GUI  
 
-- ⚡ **NovaLC** — AI-powered quiz platform (dynamic generation)  
+- **NovaLC** — AI-powered quiz platform (dynamic generation)
+  → private
 
-- 🤖 **NovaDC / AvonDC Bot** — Discord AI bot with memory + local inference  
+- **NovaDC / AvonDC Bot** — Discord AI bot with memory + local inference
+  → private
 
 ---
 
-## 🎮 Demos
+## Demos
 
-### 🤖 NovaDC / AvonDC Bot
+### NovaDC / AvonDC Bot(Runs on Demand)
 → https://discord.gg/KmCwJbpehc  
 
-- Conversational memory  
-- Local inference  
-- External integrations (e.g. Lichess)  
-- Runs on-demand  
+- Conversational memory (play lichess with her: NovaDC)
+- Local inference
 
 ---
 
-### 📚 NovaLC Platform
+### NovaLC Quiz Platform(24/7)
 → https://novalc.vercel.app/  
 
 - Smart study system  
@@ -59,7 +57,7 @@ Student Developer • AI Systems • Backend Dev
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -75,7 +73,5 @@ Student Developer • AI Systems • Backend Dev
 <sub>Also familiar with: Java, JavaScript, C, Apache, Pytest, Git</sub>
 
 ---
-
-## 🐍 Activity
 
 ![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)
