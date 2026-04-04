@@ -28,8 +28,8 @@ I'm Franz Angelo, loves building AI-powered apps and backend systems, with exper
 ---
 
 ## Demos
-[![NovaDC](https://img.shields.io/badge/NovaDC%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KmCwJbpehc)
-[![NovaLC](https://img.shields.io/badge/NovaLC%20Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://novalc.vercel.app/)
+[![NovaDC](https://img.shields.io/badge/NovaDC%20-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KmCwJbpehc)
+[![NovaLC](https://img.shields.io/badge/NovaLC%20-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://novalc.vercel.app/)
 
 ---
 
