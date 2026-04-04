@@ -4,32 +4,20 @@
 </p>
 
 <h1 align="center">
-Hi, I'm Franz Angelo 
+I'm Franz Angelo, loves building AI-powered apps and backend systems, with experience in chatbots, APIs, and automation.
 <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 </h1>
-
-<h3 align="center">
-Student Developer • AI Systems • Backend Dev
-</h3>
-
----
-
-## About Me
-- Building **AI-powered applications and backend systems**
-- Experience with **chatbots (memory-based), APIs, and automation**
-- Interested in **system design, scalability, and real-world tools**
-
 ---
 
 ## Projects
 - **AI Chatbot** — local memory + system logic (Python + Flask)  
-  → https://github.com/Pranziss/Simple--Lightweight-Chatbot  
+  → [Check repo](https://github.com/Pranziss/Simple--Lightweight-Chatbot)  
 
 - **Nova Learning Center** — quiz system with dashboards & management  
-  → https://github.com/Pranziss/Nova-Learning-GUI  
+  → [Check repo](https://github.com/Pranziss/Nova-Learning-GUI)  
 
 - **NovaLC** — AI-powered quiz platform (dynamic generation)
   → private
@@ -40,20 +28,8 @@ Student Developer • AI Systems • Backend Dev
 ---
 
 ## Demos
-
-### NovaDC / AvonDC Bot(Runs on Demand)
-→ https://discord.gg/KmCwJbpehc  
-
-- Conversational memory (play lichess with her: NovaDC)
-- Local inference
-
----
-
-### NovaLC Quiz Platform(24/7)
-→ https://novalc.vercel.app/  
-
-- Smart study system  
-- Share & take quizzes  
+[![NovaDC](https://img.shields.io/badge/NovaDC%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/KmCwJbpehc)
+[![NovaLC](https://img.shields.io/badge/NovaLC%20Platform-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://novalc.vercel.app/)
 
 ---
 
