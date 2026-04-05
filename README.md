@@ -1,4 +1,3 @@
-<!-- 🌸 Banner -->
 <p align="center">
   <img src="nova_bg.png" alt="Nova Banner" width="100%" />
 </p>
@@ -10,7 +9,6 @@ I'm Franz Angelo, loves building AI-powered apps and backend systems, with exper
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>
 </h1>
----
 
 ## Projects
 - **AI Chatbot** — local memory + system logic (Python + Flask)  
