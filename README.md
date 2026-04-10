@@ -12,13 +12,13 @@ I'm Franz Angelo, I love building AI-powered apps and backend systems, with expe
 
 <p align="center">
   <a href="https://discord.gg/KmCwJbpehc">
-    <img src="https://img.shields.io/badge/NovaDC-Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/NovaDC-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=23272A" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://novalc.vercel.app/">
-    <img src="https://img.shields.io/badge/NovaLC-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
+    <img src="https://img.shields.io/badge/NovaLC-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
   </a>
 </p>
 
