@@ -16,10 +16,10 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://novalc.vercel.app/">
     <img src="https://img.shields.io/badge/NovaLC-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a" />
   </a>
-</p>
+</p> -->
 
 ![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)
